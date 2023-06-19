@@ -1,0 +1,29 @@
+.navbar-container{
+    display: flex;
+    justify-content: space-between;
+  
+    
+    
+}
+.navbar-logo-image{
+    height: 60px;
+    background-color: transparent;
+}
+.navbar-left{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 10px;
+}
+.navbar-signin-link{
+    text-decoration: none;
+    color: black;
+}
+.navbar-title-h1{
+    color: black;
+}
+.navbar-right{
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}

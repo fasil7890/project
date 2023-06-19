@@ -1,0 +1,22 @@
+.banner-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.banner-image{
+    height: 700px;
+}
+.banner-content-title{
+    font-size: 70px;
+}
+.banner-content-text{
+    font-size: 20px;
+}
+.banner-content-click{
+    background-color: rgb(48, 194, 165);
+    border: none;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 20px;
+    color: white;
+}
